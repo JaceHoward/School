@@ -16,7 +16,7 @@ public class Pet {
     }
 
     public String toString() {
-        return "The" + type + " named " + name + "has been petted " + pets + "times.";
+        return "The " + type + " named " + name + " has been petted " + pets + " times.";
 
     }
 }
